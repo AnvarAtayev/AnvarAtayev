@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Anvar 👋
 
-<!--
-**AnvarAtayev/AnvarAtayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Quantitative Researcher. I enjoy working at the intersection of mathematics, finance, and software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Projects I'm Currently Enjoying
+
+- **[mogan](https://github.com/XmacsLabs/mogan)** — WYSIWYG maths & science writing suite, itself a fork of [GNU TeXmacs](https://www.texmacs.org)
+- **[pysystemtrade](https://github.com/robcarver17/pysystemtrade)** — Systematic futures trading in Python
+- **[markdown](https://github.com/AnvarAtayev/markdown)** — A fork and extension of the [original TeXmacs markdown converter](https://github.com/texmacs/markdown)
+
+---
+
+### 📫 Get in Touch
+
+- Website & Blog: [anvaratayev.com](https://anvaratayev.com); this is a space where I write about what I find interesting across mathematics, space, the sciences and finance, plus have some more information about myself, and my background.
+

@@ -13,7 +13,7 @@ I'm a Quantitative Researcher. I enjoy working at the intersection of mathematic
 
 ---
 
-### 📫 Get in Touch
+### Where to Find Me
 
 - Website & Blog: [anvaratayev.com](https://anvaratayev.com); this is a space where I write about what I find interesting across mathematics, space, the sciences and finance, plus have some more information about myself, and my background.
 - LinkedIn: [anvarbek-atayev](https://www.linkedin.com/in/anvarbek-atayev/)

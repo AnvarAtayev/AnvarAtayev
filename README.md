@@ -6,6 +6,7 @@ I'm a Quantitative Researcher. I enjoy working at the intersection of mathematic
 
 ### 🔭 Projects I'm Currently Enjoying
 
+- **[rdio](https://github.com/AnvarAtayev/rdio)** - A tiny, native macOS menu bar radio player, made from my love to listening to the radio
 - **[cnvs](https://cnvs.anvaratayev.com)** - A simple mathematical drawing web applicaiton, to create beautiful and scalable diagrams
 - **[bmrk](https://github.com/AnvarAtayev/bmrk)** — A simple CLI tool for adding structured bookmarks to PDFs
 - **[mogan](https://github.com/XmacsLabs/mogan)** — WYSIWYG maths & science writing suite, itself a fork of [GNU TeXmacs](https://www.texmacs.org)
